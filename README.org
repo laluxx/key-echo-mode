@@ -1,2 +1,4 @@
 #+TITLE: Key-echo-mode
 #+AUTHOR: Laluxx
+
+[[./demo.gif]]
